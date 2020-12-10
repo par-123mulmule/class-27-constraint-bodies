@@ -1,7 +1,7 @@
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
-const constraint = Matter.constraint;
+const constraint = Matter.Constraint;
 
 var engine, world;
 var box1, pig1;
